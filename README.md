@@ -1,8 +1,5 @@
-# Orbit-Simulator
-Created for my final CS project.
-
 # About this program
-This is an orbital simulator program. When two objects enter another's SOI (sphere of influence), a separate animation will play that will display what would theoretically happen if the planets were to approach one another. 
+This is an orbital simulator program, created for my final grade 12 CS project! When two objects enter another's SOI (sphere of influence), a separate animation will play that will display what would theoretically happen if the planets were to approach one another. 
 
 # What this program can accurately predict
 1. Orbital motion of elliptical orbits
